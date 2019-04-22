@@ -10,7 +10,7 @@ import AlertCmp from './components/Shared/Alert.vue'
 import EditMeetupDetailsDialog from './components/Meetup/Edit/EditMeetupDetailsDialog.vue'
 import EditMeetupDateDialog from './components/Meetup/Edit/EditMeetupDateDialog.vue'
 import EditMeetupTimeDialog from './components/Meetup/Edit/EditMeetupTimeDialog.vue'
-import RegisterDialog from './components/Meetup/Registration/registerDialog.vue'
+import RegisterDialog from './components/Meetup/Registration/RegisterDialog.vue'
 
 // Helpers
 import colors from 'vuetify/es5/util/colors'
